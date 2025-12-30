@@ -1,0 +1,6 @@
+train_set_file: 
+  question_answering: "data/recipe_nlg/Qwen2-1.5B-Instruct/train.parquet"
+val_set_file: 
+  question_answering: "data/recipe_nlg/Qwen2-1.5B-Instruct/validation.parquet"
+test_set_file: 
+  question_answering: "data/recipe_nlg/Qwen2-1.5B-Instruct/test.parquet"

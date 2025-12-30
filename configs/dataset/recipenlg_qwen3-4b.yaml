@@ -1,0 +1,7 @@
+train_set_file: 
+  question_answering: "data/recipe_nlg/Qwen3-4B-Instruct-2507/curated_dataset/train.parquet"
+val_set_file: 
+  question_answering: "data/recipe_nlg/Qwen3-4B-Instruct-2507/curated_dataset/validation.parquet"
+test_set_file: 
+  question_answering: "data/recipe_nlg/Qwen3-4B-Instruct-2507/curated_dataset/test.parquet"
+  
