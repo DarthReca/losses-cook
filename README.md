@@ -4,7 +4,7 @@
 
 </div>
 
-*REPOSITORY IN CONSTRUCTION some files could be missing*
+*Repository under construction; some files may be missing.*
 
 ### Getting Started
 
